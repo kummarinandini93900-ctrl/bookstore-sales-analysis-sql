@@ -1,0 +1,51 @@
+Book_ID,Book_Name,Category,Price,Quantity_Sold,City
+101,Atomic Habits,Self Help,499,5,Hyderabad
+102,Rich Dad Poor Dad,Finance,399,8,Bangalore
+103,The Alchemist,Fiction,299,11,Chennai
+104,Ikigai,Self Help,450,14,Mumbai
+105,Deep Work,Productivity,550,17,Delhi
+106,Think and Grow Rich,Finance,350,20,Pune
+107,Harry Potter,Fiction,699,23,Hyderabad
+108,Wings of Fire,Biography,300,5,Bangalore
+109,Steve Jobs,Biography,650,8,Chennai
+110,The Psychology of Money,Finance,500,11,Mumbai
+111,Atomic Habits,Self Help,499,14,Delhi
+112,Rich Dad Poor Dad,Finance,399,17,Pune
+113,The Alchemist,Fiction,299,20,Hyderabad
+114,Ikigai,Self Help,450,23,Bangalore
+115,Deep Work,Productivity,550,5,Chennai
+116,Think and Grow Rich,Finance,350,8,Mumbai
+117,Harry Potter,Fiction,699,11,Delhi
+118,Wings of Fire,Biography,300,14,Pune
+119,Steve Jobs,Biography,650,17,Hyderabad
+120,The Psychology of Money,Finance,500,20,Bangalore
+121,Atomic Habits,Self Help,499,23,Chennai
+122,Rich Dad Poor Dad,Finance,399,5,Mumbai
+123,The Alchemist,Fiction,299,8,Delhi
+124,Ikigai,Self Help,450,11,Pune
+125,Deep Work,Productivity,550,14,Hyderabad
+126,Think and Grow Rich,Finance,350,17,Bangalore
+127,Harry Potter,Fiction,699,20,Chennai
+128,Wings of Fire,Biography,300,23,Mumbai
+129,Steve Jobs,Biography,650,5,Delhi
+130,The Psychology of Money,Finance,500,8,Pune
+131,Atomic Habits,Self Help,499,11,Hyderabad
+132,Rich Dad Poor Dad,Finance,399,14,Bangalore
+133,The Alchemist,Fiction,299,17,Chennai
+134,Ikigai,Self Help,450,20,Mumbai
+135,Deep Work,Productivity,550,23,Delhi
+136,Think and Grow Rich,Finance,350,5,Pune
+137,Harry Potter,Fiction,699,8,Hyderabad
+138,Wings of Fire,Biography,300,11,Bangalore
+139,Steve Jobs,Biography,650,14,Chennai
+140,The Psychology of Money,Finance,500,17,Mumbai
+141,Atomic Habits,Self Help,499,20,Delhi
+142,Rich Dad Poor Dad,Finance,399,23,Pune
+143,The Alchemist,Fiction,299,5,Hyderabad
+144,Ikigai,Self Help,450,8,Bangalore
+145,Deep Work,Productivity,550,11,Chennai
+146,Think and Grow Rich,Finance,350,14,Mumbai
+147,Harry Potter,Fiction,699,17,Delhi
+148,Wings of Fire,Biography,300,20,Pune
+149,Steve Jobs,Biography,650,23,Hyderabad
+150,The Psychology of Money,Finance,500,5,Bangalore
