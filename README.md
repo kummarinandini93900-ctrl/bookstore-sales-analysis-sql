@@ -28,3 +28,13 @@ This project analyzes bookstore sales data using MySQL.
 ## Files
 - bookstore_analysis_project.sql
 - bookstore_dataset_50_rows.csv
+## SQL Queries Performed
+
+1. Total Books Count
+2. Total Revenue Calculation
+3. Top Selling Books
+4. Revenue by Category
+5. Revenue by City
+6. Average Book Price by Category
+7. Highest Revenue Generating Book
+
